@@ -72,9 +72,21 @@ Install respective python modules by using following commands:
 
 ## Deployment
 
-To deploy this project create a `SDS` folder inside your `E drive` Then place all the folders and code files inside `SDS` folder. This is how your project directory must look.
+To deploy this project create a `SDS` folder inside your `E drive`.
 
+<p align="center">
+  <img src="others/directorysetup1.PNG" />
+</p>
 
+Create a `resources` folder inside `SDS` folder and place `traffic` file inside. Click here to download traffic.mp4 file: <a href="https://drive.google.com/drive/folders/1d22cp2Fw9vk3DxcUdtWovjdlWmGkNiQz?usp=sharing">Download</a>
+
+Create a `TrafficRecord` folder inside `SDS` folder and create a `exceeded` folder inside it.
+
+This is how your project directory must look.
+ 
+<p align="center">
+  <img src="others/directorysetup2.PNG" />
+</p>
 
 
 
