@@ -88,7 +88,50 @@ This is how your project directory must look.
   <img src="others/directorysetup2.PNG" />
 </p>
 
+## Execution
 
+Run this command in your terminal
+
+```bash
+  python main.py
+```
+
+## Results
+
+### Vehicle detection and tracking
+
+<p>
+  <img src="others/outputwindow.png" />
+</p>
+
+### Storing vehicle images and data
+
+<p>
+  <img src="others/outputdirectory.png" />
+</p>
+
+### Data report
+
+<p>
+  <img src="others/outputreport.png" />
+</p>
+
+### Graphical representation
+
+<p>
+  <img src="others/outputgraph.png" />
+</p>
+
+## Conclusion
+
+Speed detection system focuses to detect speed of every vehicle and can monitor as
+well as reduce the road accidents due to over speeding with proper accuracy and efficiency.
+As compared to the existing systems speed detection system is easy to handle with less
+physical effort and is completely automated.
+Since the cost of this system is many times less than the existing system making it efficicent cost wise. This system also helps to count number of vehicles that pass over the
+road so that government gets an idea about the maintenance time period of that road. This video-based speed detection system works as good alternative to the
+existing system. It can also be expanded to various fields
+of security measures and can be further improved by adding features such as number plate extraction and many more. 
 
 
 
