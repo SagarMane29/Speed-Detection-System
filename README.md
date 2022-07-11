@@ -76,7 +76,7 @@ phase.
 
   <img src="others/directorysetup1.PNG" />
 
-- Create a `resources` folder :file_folder: inside `SDS` folder :file_folder: and place `traffic` file 📋 inside. Click here to download traffic.mp4 file: <a href="https://drive.google.com/drive/folders/1d22cp2Fw9vk3DxcUdtWovjdlWmGkNiQz?usp=sharing">Download</a> 📥	
+- Create a `resources` folder :file_folder: inside `SDS` folder :file_folder: and place `traffic` file 📋 inside. Dwnload traffic.mp4 file from here: <a href="https://drive.google.com/drive/folders/1d22cp2Fw9vk3DxcUdtWovjdlWmGkNiQz?usp=sharing">Download</a> 📥	
 
   <img src="others/directorysetup2.PNG" />
 
