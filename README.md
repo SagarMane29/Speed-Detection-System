@@ -74,19 +74,19 @@ phase.
 
 - To deploy this project create a `SDS` folder :file_folder: inside your `E drive`.
 
-<img src="others/directorysetup1.PNG" />
+  <img src="others/directorysetup1.PNG" />
 
 - Create a `resources` folder :file_folder: inside `SDS` folder :file_folder: and place `traffic` file 📋 inside. Click here to download traffic.mp4 file: <a href="https://drive.google.com/drive/folders/1d22cp2Fw9vk3DxcUdtWovjdlWmGkNiQz?usp=sharing">Download</a> 📥	
 
-<img src="others/directorysetup2.PNG" />
+  <img src="others/directorysetup2.PNG" />
 
 - Create a `TrafficRecord` folder :file_folder: inside `SDS` folder :file_folder: and create a `exceeded` folder :file_folder: inside it.
 
-<img src="others/directorysetup3.PNG" />
+  <img src="others/directorysetup3.PNG" />
 
 - This is how your project directory :file_folder: must look.
  
-<img src="others/directorysetup4.PNG" />
+  <img src="others/directorysetup4.PNG" />
 
 ## :purple_circle: Execution
 
@@ -100,27 +100,27 @@ phase.
 
 - ### Vehicle detection and tracking
 
-<p>
-  <img src="others/outputwindow.png" />
-</p>
+  <p>
+    <img src="others/outputwindow.png" />
+  </p>
 
 - ### Storing vehicle images and data
 
-<p>
-  <img src="others/outputdirectory.png" />
-</p>
+  <p>
+    <img src="others/outputdirectory.png" />
+  </p>
 
 - ### Data report
 
-<p>
-  <img src="others/outputreport.png" />
-</p>
+  <p>
+    <img src="others/outputreport.png" />
+  </p>
 
 - ### Graphical representation
 
-<p>
-  <img src="others/outputgraph.png" />
-</p>
+  <p>
+    <img src="others/outputgraph.png" />
+  </p>
 
 ## :large_blue_circle: Conclusion
 
