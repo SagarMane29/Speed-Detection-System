@@ -4,6 +4,10 @@
   <img src="others/thumbnail.jpg" />
 </p>
 
+## Why suffer when we can develop a system that can automatically detect overspeeding vehicles
+
+https://user-images.githubusercontent.com/90572543/186978270-a99cfdf3-9df5-420a-87c6-977dbe1a69f4.mp4
+
 ## Why do we need a speed detection system ?
 
 Speed control on highways and accident prone areas has been a challenging conundrum for government on a global scale. According to reports there are approximately 4 lakh crashes each year causing upto 1 lakh deaths all over the world. A majority of them are caused by overspeeding vehicles which can be controlled by implementing a proper monitoring system that is able to detect overspeeding vehilces.
